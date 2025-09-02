@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Uye Ismail 
 
-🔍 **Data Analyst | Excel | SQL | Power BI**  
+🔍 **Data Analyst | Excel 📊 | SQL 🛠️ | Power BI 📈**  
 
 I’m a passionate **Data Analyst** with less than a year of hands-on experience turning raw data into meaningful insights. Even within this short time, I’ve worked on and continue to explore multiple projects, sharpening my skills and learning new ways to solve real-world problems through data.  
 

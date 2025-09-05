@@ -29,7 +29,8 @@ Here you’ll find a collection of my projects ranging from exploratory analysis
 
 ## 📬 Connect with Me  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/uye-ismail-d)  
-- 📧 **uyedanzismuye@gmail.com**  
+- 📧 **uyedanzismuye@gmail.com**
+- 📧 **uyeismaildanzismuye@gmail.com**  
 
 ---
 
